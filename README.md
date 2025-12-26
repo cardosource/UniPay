@@ -1,4 +1,4 @@
-# PayMercado
+# UniPay
 Esse projeto, é uma solução robusta para processamento de pagamentos via PIX, integrada à API do Mercado Pago e banco do Brasil. O PIX, como solução de pagamento instantâneo, revoluciona a forma como as transações são realizadas, oferecendo agilidade, segurança e praticidade. 
 
 As API's , por sua vez, fornece uma base confiável e flexível para implementar pagamentos via PIX, permitindo uma integração personalizada e eficiente por meio de seus endpoints. Essa combinação de tecnologias garante uma experiência de pagamento moderna e adaptável às necessidades dos usuários
